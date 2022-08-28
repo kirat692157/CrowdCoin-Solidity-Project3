@@ -27,5 +27,3 @@ const deploy = async () => {
     provider.engine.stop();
 };
 deploy();
-
-    //0x6a46250901BA269a45A5B829F55Ab8FafDA02018 deployed to
